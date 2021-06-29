@@ -1,2 +1,2 @@
 # task-tracker
-This is a task tracker using react.js
+This is a task tracker built with react.js
